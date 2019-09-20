@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# scrape telegram
+# scrape telegram => post to Discourse
 import os
 import time
 import requests
